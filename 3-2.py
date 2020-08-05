@@ -6,7 +6,6 @@ z=input('enter')
 z=int(z)
 y=int(y)
 x=int(x)
-
 print(add3(x,y,z))
     
     
